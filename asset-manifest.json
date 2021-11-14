@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BrownCandy/static/css/main.fc795da2.chunk.css",
+    "main.js": "/BrownCandy/static/js/main.309d33b6.chunk.js",
+    "main.js.map": "/BrownCandy/static/js/main.309d33b6.chunk.js.map",
+    "runtime-main.js": "/BrownCandy/static/js/runtime-main.72ff5c53.js",
+    "runtime-main.js.map": "/BrownCandy/static/js/runtime-main.72ff5c53.js.map",
+    "static/js/2.1b2eb34e.chunk.js": "/BrownCandy/static/js/2.1b2eb34e.chunk.js",
+    "static/js/2.1b2eb34e.chunk.js.map": "/BrownCandy/static/js/2.1b2eb34e.chunk.js.map",
+    "static/js/3.8a3d9278.chunk.js": "/BrownCandy/static/js/3.8a3d9278.chunk.js",
+    "static/js/3.8a3d9278.chunk.js.map": "/BrownCandy/static/js/3.8a3d9278.chunk.js.map",
+    "index.html": "/BrownCandy/index.html",
+    "static/css/main.fc795da2.chunk.css.map": "/BrownCandy/static/css/main.fc795da2.chunk.css.map",
+    "static/js/2.1b2eb34e.chunk.js.LICENSE.txt": "/BrownCandy/static/js/2.1b2eb34e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72ff5c53.js",
+    "static/js/2.1b2eb34e.chunk.js",
+    "static/css/main.fc795da2.chunk.css",
+    "static/js/main.309d33b6.chunk.js"
+  ]
+}
