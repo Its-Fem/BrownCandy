@@ -1,0 +1,167 @@
+.AddtoCart_Container{
+    display: flex;
+    /* align-items:center; */
+    width: 100vw;
+    height: 100vh;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: auto;
+   
+}
+.product_detail{
+  position: absolute;
+  flex-wrap: wrap;
+  box-shadow: 0 0 2px #bac3cb;
+  margin-top: 8%;
+  padding: 53px;
+  height: 55%;
+  width: 19%;
+  margin-right: 50%;
+}
+
+/* .product_detail  .AddtoCart_img{
+  padding: 10px;
+}  */
+
+/* .product_detail .AddtoCart_img .image{
+  height: 40%;
+  width: 203px;
+  object-fit: cover;   
+} */
+
+
+/* .AddtoCart_img{
+  flex-wrap: wrap;
+  width: 19%;
+} */
+.image{
+  height:100%;
+  width: 100%;
+}
+/* {
+  height: 200px;
+} */
+
+/* .AddCart-btn{
+  margin-bottom: 2%;
+} */
+/* .AddCart-btn{
+  width: 50%;
+  height: 80%; */
+  /* margin-left: 5%;
+  margin-top: -11%; */
+/* } */
+
+/* .add-btn{
+  width: 108px;
+  height: 36px;
+  border-radius: 15%;
+  background: cornsilk;
+}
+.add-btn:hover{
+  background-color:#f2dede;
+  cursor: pointer;
+} */
+.Buy-btndiv{
+  width: auto;
+  margin-left: 71%;
+  margin-top: -67%;
+  cursor: pointer;
+  height: 0%;
+}
+
+.Buy-btn{
+  width: 108px;
+  height: 36px;
+  padding: 8px 20px;
+  border-radius: 2px;
+  outline: none;
+  /* border: none; */
+  cursor: pointer;
+}
+
+.Buy-btn:hover{
+  background-color: #797878;
+  color: white;  
+}
+
+.pro-discription{
+  width: 27%;
+  height: 59%;
+  margin-top: 8%;
+  margin-left: 35%;
+  box-shadow: 0 0 20px #bac3cb;
+  text-align: center;
+}
+.Prod_name{
+  color: rgb(73, 66, 73);
+}
+
+.descr{
+  height: 20%;
+  color:red;
+}
+
+
+.Buy-btn_cart{
+  padding: 8px 20px;
+  margin-left: 50%;
+  border-radius: 2px;
+  outline: none;
+  /* border: none; */
+  cursor: pointer; 
+}
+.Buy-btn_cart:hover{
+  background-color: #797878;
+  color: white;  
+}
+
+:root {
+  --primary: #fff;
+}
+
+
+.add-btn {
+  padding: 8px 20px;
+  border-radius: 2px;
+  outline: none;
+  /* border: none; */
+  cursor: pointer;
+}
+
+.add-btn:hover{
+  background-color: #797878;
+  color: white;  
+}
+
+.add-btn--primary {
+  background-color: var(--primary);
+  color: #242424;
+  border: 1px solid var(--primary);
+}
+
+.add-btn--outline {
+  background-color: transparent;
+  color: #fff;
+  padding: 8px 20px;
+  border: 1px solid var(--primary);
+  transition: all 0.3s ease-out;
+}
+
+.add-btn--medium {
+  padding: 2px 8px ;
+  font-size: 18px;
+}
+
+.add-btn--large {
+  padding: 12px 26px;
+  font-size: 20px;
+}
+
+.add-btn--large:hover,
+.add-btn--medium:hover {
+  transition: all 0.3s ease-out;
+  background: #fff;
+  color: #242424;
+  transition: 250ms;
+}

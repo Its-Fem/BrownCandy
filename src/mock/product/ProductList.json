@@ -1,0 +1,93 @@
+[
+   
+    {
+        "id" :"1",
+        "name": "Bouquet of 20 Cadbury Dairy Milk Chocolates",
+        "description": "Choose one happiness or chocolates.. ahh nevermind it's the same thing. We've caged true happiness for you and presented it in a 20 Cadbury Dairy Milk Bouquet so you can share it with loved ones. Make sure your dear ones get a dose of true happiness as a gift from you.",
+        "image": "image/Bouquet of 20 Cadbury Dairy Milk Chocolates.jpg",
+        "priority": "New",
+        "rate": 695
+
+    },
+
+    {
+        "id" :"2",
+        "name": "Cadbury Bournville Bouquet",
+        "description": "As they say 'You earn every piece of Bournville' and you get 10 of them here, grant a big wish to the Bournville lover by getting them this exclusive Bouquet that will have their heart fixated on it.",
+        "image": "image/Cadbury Bournville Bouquet.jpg",
+        "priority": "New",
+        "rate": 1395        
+    },
+    {
+        "id" :"3",
+        "name": "Assorted Cadbury Chocolates Bouquet",
+        "description": "The Grand gift of Chocolates, Willy Wonka just gave you the golden ticket? Well, quite like that - this Bouquet of Cadbury chocolates will be a sinner's heaven. Win that chocolate lover's heart with this one. It holds 5 perk, 5 five star & 5 dairy milk Bars. Key attributes : Brand : AssortedWeight : 50gmsType : Baskets Trays",
+        "image": "image/Assorted Cadbury Chocolates Bouquet.jpg",
+        "priority": "New",
+        "rate": 695        
+    },
+    {
+        "id" :"4",
+        "name": "Carnations With Chocolate Gift Hamper",
+        "description": "Exquisiteness of the Pink Carnations & White Roses matching with the indulgent taste of Cadbury silk chocolates is a recipe to express affection and love. Arranged in a fancy gift bag, this floral hamper will bring glory in abundance to the receiver.KEY CONSTITUENTS : Cadbury Dairy Milk Silk 60gms (2 units)White Roses (3 units)Pink Carnations (3 units)Pink Floral Printed Paper Bag.",
+        "image": "image/Carnations With Chocolate Gift Hamper.jpg",
+        "priority": "New",
+        "rate": 399
+    },
+    {
+        "id" :"5",
+        "name": "Assorted Cadbury Chocolates in Gift Box",
+        "description": "Indulge your loved one in the heavenly bliss of chocolates with this Chocolaty Hamper that's curated for the chocolate lover of your life. It includes variety of chocolates from Cadbury. This hamper comes in a Gift box.KEY CONSTITUENTS :Cadbury Dairy Milk Roast AlmondCadbury Dairy Milk CrackleCadbury Dairy Milk ChocolateCadbury Dairy Milk Silk Choclate 60gms (2 units)Dairy Milk Chocolate (3 units)Cadbury 5 Star (2 units)Cadbury Dairy Milk Silk BubblyGift Box.",
+        "image": "image/Assorted Cadbury Chocolates in Gift Box.jpg",
+        "priority": "New",
+        "rate": 1125
+    },
+    {
+        "id" : "6",
+        "name": "Cadbury Silk Bouquet",
+        "description": "Too good to be true, this Bouquet holds 6 Bars of Cadbury Dairy Milk Silk -\\n Celebrate that rich and luxurious, buttery smooth chocolatey sensation with this. Surprise a chocolate lover, decorated chicly, the recipient will surely be overjoyed.KEY ATTRIBUTES :Brand : Dairy MilkWeight : 60gms",
+        "image": "image/Cadbury Silk Bouquet.jpg",
+        "priority": "New",
+        "rate": 1295
+    },
+    {
+        "id" :"7",
+        "name": "Cadbury Celebration",
+        "description": "Combo OfferBuy 2 items save 5%; Buy 3 or more save 10%See all productsT&C",
+        "image": "image/Cadbury Celebrations.jpg",
+        "priority": "New",
+        "rate": 599        
+    },
+    {
+        "id" :"8",
+        "name": "Cadbury Silk Special Potli",
+        "description": "This product is highest selling one.",
+        "image": "image/Cadbury Silk special potli 343g.jpg",
+        "priority": "New",
+        "rate": 699        
+    },
+    {   
+        "id" :"9",
+        "name": "Dark Fantasy",
+        "description": "This product is highest selling one.",
+        "image": "image/Dark Fantasy.jpg",
+        "priority": "New",
+        "rate": 399
+    },
+    {
+        "id" :"10",
+        "name": "Dukes Waffy Rolls",
+        "description": "This product is highest selling one.",
+        "image": "image/Dukes Waffy Rolls.jpg",
+        "priority": "New",
+        "rate": 999
+    },
+    {
+        "id" :"11",
+        "name": "Dark Fantasy Choco Fills",
+        "description": "This product is highest selling one.",
+        "image": "image/Dark Fanctasy Choco Fills.jpg",
+        "priority": "New",
+        "rate": 599
+    }
+]
